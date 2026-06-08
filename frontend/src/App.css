@@ -1,0 +1,42 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body { font-family: Arial, sans-serif; background: #f0f2f5; }
+
+.app { max-width: 800px; margin: 0 auto; padding: 20px; }
+
+h1 { text-align: center; color: #2c3e50; margin-bottom: 20px; }
+
+.tabs { display: flex; gap: 10px; margin-bottom: 20px; }
+
+.tabs button {
+  flex: 1; padding: 10px; border: none;
+  background: #ddd; border-radius: 8px;
+  cursor: pointer; font-size: 14px;
+}
+
+.tabs button.active { background: #3498db; color: white; }
+
+.content { background: white; border-radius: 12px; padding: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+
+input, select, textarea {
+  width: 100%; padding: 10px; margin: 8px 0;
+  border: 1px solid #ddd; border-radius: 8px;
+  font-size: 14px;
+}
+
+button.submit {
+  width: 100%; padding: 12px; background: #3498db;
+  color: white; border: none; border-radius: 8px;
+  cursor: pointer; font-size: 15px; margin-top: 10px;
+}
+
+button.submit:hover { background: #2980b9; }
+
+.result {
+  margin-top: 16px; padding: 14px;
+  background: #f8f9fa; border-radius: 8px;
+  border-left: 4px solid #3498db;
+  white-space: pre-wrap; font-size: 14px;
+}
+
+.error { border-left-color: #e74c3c; color: #e74c3c; }
