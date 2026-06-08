@@ -1,0 +1,14 @@
+Typhoid fever is a bacterial infection caused by Salmonella typhi.
+Symptoms include prolonged fever, fatigue, headache, nausea, abdominal pain.
+Treatment includes antibiotics such as ciprofloxacin or azithromycin.
+Patients should drink plenty of fluids and rest.
+
+Diabetes is a chronic condition where blood sugar levels are too high.
+Type 1 diabetes is an autoimmune condition. Type 2 is lifestyle related.
+Symptoms include frequent urination, excessive thirst, blurred vision.
+Treatment includes insulin, metformin, and lifestyle changes.
+
+Pneumonia is an infection that inflames the air sacs in the lungs.
+Symptoms include cough, fever, chills, and difficulty breathing.
+Treatment includes antibiotics, rest, and fluids.
+

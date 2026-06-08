@@ -1,0 +1,49 @@
+# =========================
+# Python
+# =========================
+.venv/
+venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Environment Variables
+# =========================
+backend/.env
+
+# =========================
+# Datasets
+# =========================
+backend/xray/data/
+backend/disease/data/
+
+# =========================
+# Trained Models
+# =========================
+backend/models/
+
+# =========================
+# Vector Store (FAISS)
+# =========================
+backend/vector_store/faiss_index/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
